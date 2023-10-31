@@ -1,0 +1,366 @@
+body{
+    background-color: #211f20   ;
+    font-family: 'Cairo', sans-serif;
+}
+
+.direction{
+    text-align: right;
+    direction: rtl;
+}
+
+.section-color{
+    background:linear-gradient(to right ,#3c30a9,#d10b27) !important;
+}
+
+.video-section{
+    background-color: #00a8db;
+}
+
+
+
+.video-section2{
+    background-color: #00a8db;
+    text-align: right;
+    direction: rtl;
+}
+
+.video-section h4{
+    font-size:35px;
+    font-weight:bold;
+}
+
+.section-font{
+    font-size: 50px;
+}
+
+.nav-btn{
+    padding: 45px 0;
+    width: 100%;
+    margin:  auto;
+}
+
+
+
+
+
+
+.nav-btn .btn1{
+    padding: 5px 90px;
+    background-color:#fff;
+    color: red;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+
+.nav-btn .btn2{
+    padding: 5px 70px;
+    background-color:red;
+    color: #fff;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    
+}
+
+    .Time-Management .Time-font{
+        font-size: 20px;
+        font-weight:bold ;
+    }
+
+    .Time-Management .time-head{
+        font-size: 40px;
+        font-weight: bold;
+        color:#6ec1e4;
+    }
+
+
+    .paragraph{
+        line-height: 20px;
+    }
+
+    .Negotiation .Time-font{
+        font-size: 20px;
+        font-weight:bold ;
+    }
+
+    .Negotiation .time-head{
+        font-size: 40px;
+        font-weight: bold;
+        color:#f40ea0;
+    }
+
+
+    .Communication .Time-font{
+        font-size: 20px;
+        font-weight:bold ;
+    }
+
+    .Communication .time-head{
+        font-size: 40px;
+        font-weight: bold;
+        color:#6fe46e;
+    }
+
+    .Problem-solving .Time-font{
+        font-size: 20px;
+        font-weight:bold ;
+    }
+
+    .Problem-solving .time-head{
+        font-size: 40px;
+        font-weight: bold;
+        color:#f92640;
+    }
+
+
+    .Presentation .Time-font{
+        font-size: 20px;
+        font-weight:bold ;
+    }
+
+    .Presentation .time-head{
+        font-size: 40px;
+        font-weight: bold;
+        color:#debb20;
+    }
+
+
+    .Teamwork .Time-font{
+        font-size: 20px;
+        font-weight:bold ;
+    }
+
+    .Teamwork .time-head{
+        font-size: 40px;
+        font-weight: bold;
+        color:#d36306;
+    }
+
+.section .caption-1 h4{
+    background-color:#00d2fd;
+    color: #fff;
+    font-size: 45px;
+    padding: 30px;
+    font-weight: bold;
+
+}
+
+.section .caption-1 p{
+    font-size: 25px;
+    font-weight: 600;
+    color: #fff;
+    line-height: 30px;
+
+}
+
+.section .caption-2 h4{
+    background-color:#7800fd;
+    color: #fff;
+    font-size: 45px;
+    padding: 20px;
+    font-weight: bold;
+}
+
+.section .caption-2 p{
+    font-size: 25px;
+    font-weight: 600;
+    color: #fff;
+    line-height: 30px;
+
+}
+
+
+
+.section .caption-3 h4{
+    background-color:#ff0088;
+    color: #fff;
+    font-size: 45px;
+    padding: 20px;
+    font-weight: bold;
+}
+
+.section .caption-3 p{
+    font-size: 25px;
+    font-weight: 600;
+    color: #fff;
+    line-height: 30px;
+
+}
+
+
+.section .caption-4 h4{
+    background-color:#00c594;
+    color: #fff;
+    font-size: 45px;
+    padding: 20px;
+    font-weight: bold;
+
+}
+
+.section .caption-4 p{
+    font-size: 25px;
+    font-weight: 600;
+    color: #fff;
+    line-height: 30px;
+
+}
+    
+
+.section .caption-5 h4{
+    background-color:#7fae36;
+    color: #fff;
+    font-size: 45px;
+    padding: 20px;
+    font-weight: bold;
+
+}
+
+.section .caption-5 p{
+    font-size: 25px;
+    font-weight: 600;
+    color: #fff;
+    line-height: 30px;
+}
+
+.section .caption-6 h4{
+    background-color:#ffb700;
+    color: #fff;
+    font-size: 45px;
+    padding: 20px;
+    font-weight: bold;
+}
+
+.section .caption-6 p{
+    font-size: 25px;
+    font-weight: 600;
+    color: #fff;
+    line-height: 30px;
+
+}
+    
+.section .caption-7 h4{
+    background-color:#c88228;
+    color: #fff;
+    font-size: 45px;
+    padding: 30px;
+    font-weight: bold;
+
+}
+
+.section .caption-7 p{
+    font-size: 25px;
+    font-weight: 600;
+    color: #fff;
+    line-height: 30px;
+
+}
+
+
+.section .caption-8 h4{
+    background-color:#ff5300;
+    color: #fff;
+    font-size: 45px;
+    padding: 20px;
+    font-weight: bold;
+}
+
+.section .caption-8 p{
+    font-size: 25px;
+    font-weight: 600;
+    color: #fff;
+    line-height: 30px;
+
+}
+
+.section .caption-9 h4{
+    background-color:#006ecb;
+    color: #fff;
+    font-size: 45px;
+    padding: 30px;
+    font-weight: bold;
+
+}
+
+.section .caption-9 p{
+    font-size: 25px;
+    font-weight: 600;
+    color: #fff;
+    line-height: 30px;
+
+}
+
+.section .caption-10 h4{
+    background-color:#fb2e2e;
+    color: #fff;
+    font-size: 45px;
+    padding: 20px;
+    font-weight: bold;
+}
+
+.section .caption-10 p{
+    font-size: 25px;
+    font-weight: 600;
+    color: #fff;
+    line-height: 30px;
+
+}
+
+    
+.container .text p{
+    color: #00d2fd;
+    text-align: center;
+    font-size: 26px;
+}
+
+.bonus h6{
+    font-weight: bold;
+    font-size: 50px;
+    animation-name:color-bonus;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+
+form .sub-btn{
+    background-color:#00d2fd;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 0;
+}
+
+.footer-section{
+    text-align: center;
+    color: gray;
+    font-size: 19px;
+}
+
+
+@keyframes color-bonus {
+    0%{
+        color:#3c30a9;
+    }
+
+    50%{
+        color:#d10b27;
+    }
+
+    75%{
+        color:#3c30a9;
+    }
+
+    100%{
+        color:#d10b27;
+    }
+}
+
+
+.spacing div{
+    width: 70%;
+    margin: auto;
+    padding-top: 10px;
+}
+
+
